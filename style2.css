@@ -1,0 +1,168 @@
+
+
+*
+{
+    margin: 0;
+}
+.outerlogo
+{
+    height: 90px;
+    padding: 30px;
+}
+
+.logo
+{
+    background-image: url("logo3.svg");
+    background-size: 150px;
+    background-repeat: no-repeat;
+    height: 370px;
+    width: 100%;
+   
+}
+
+.login
+{
+    background-color: #000000bf;
+    height: 660px;
+    width: 440px;  
+    margin-bottom: 90px;
+    margin-left: 450px;
+    
+}
+
+.login-content
+{
+    padding: 55px;
+
+}
+
+.login-content h1
+{
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login-content input
+{
+    height: 50px;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+.red-signin
+{
+    background-color: #e50914;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 55px;
+}
+
+.red-signinContent
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 13px;
+    color: white;
+    font-size: larger;
+}
+
+.me1
+{ 
+    padding-top: 10px;
+    padding-left: 55px;
+    color: rgb(208, 206, 206);
+}
+
+.me2
+{
+    margin-left: 110px;
+}
+
+.newto 
+{
+    padding-top: 35px;
+    padding-left: 55px;
+    color: rgb(208, 206, 206);
+    font-size: 20px;
+}
+
+.me3
+{
+    color: white;
+}
+
+.end
+{
+    padding-top: 15px;
+    padding-left: 55px;
+    color: rgb(208, 206, 206);
+
+}
+
+.end a
+{
+    color: #0071eb
+}
+
+body, html
+{
+    height: 100%;
+    width: 100%;
+}
+
+.img
+{
+    background-image: url("netflix2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: fit-content;
+    
+    
+    
+}
+
+.foot-panel
+{
+    background-color: #000000bf;
+    height: 300px;
+    /* width: 100%; */
+
+}
+
+.listbox p
+{
+    color: #737373;
+    padding-top: 30px;
+    padding-left: 150px;
+    font-size: 20px;
+}
+
+ .listbox ul
+ {
+    color: #737373;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 30px;
+    padding-top: 30px;
+  
+}
+
+
+.lang1
+{
+    padding: 9px;
+    width: 150px;
+    background-color: black;
+    color: #737373;
+    height: 50px;
+}
+
+.language
+{
+    margin-left: 150px;
+    margin-top: 30px;
+}
